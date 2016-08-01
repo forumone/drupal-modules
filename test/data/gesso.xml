@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title>Gesso</title>
+<short_name>gesso</short_name>
+<dc:creator>dcmouyard</dc:creator>
+<type>project_theme</type>
+<api_version>all</api_version>
+<project_status>published</project_status>
+<link>https://www.drupal.org/project/gesso</link>
+<terms><term><name>Projects</name><value>Themes</value></term><term><name>Maintenance status</name><value>Actively maintained</value></term><term><name>Development status</name><value>Under active development</value></term></terms>
+<releases>
+ <release>
+  <name>gesso 7.x-2.0</name>
+  <version>7.x-2.0</version>
+  <tag>7.x-2.0</tag>
+  <version_major>2</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-2.0</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-2.0.tar.gz</download_link>
+  <date>1468868939</date>
+  <mdhash>0574591b8f14ec889c2905880d187847</mdhash>
+  <filesize>112335</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-2.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>0574591b8f14ec889c2905880d187847</md5>
+    <size>112335</size>
+    <filedate>1468868939</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-2.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>92f11e46a2d67e7e7ed43ad66a054e3d</md5>
+    <size>177011</size>
+    <filedate>1468868939</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 7.x-1.5</name>
+  <version>7.x-1.5</version>
+  <tag>7.x-1.5</tag>
+  <version_major>1</version_major>
+  <version_patch>5</version_patch>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-1.5</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-1.5.tar.gz</download_link>
+  <date>1468852739</date>
+  <mdhash>b97191602ac202b2fcd8eb9065440fb7</mdhash>
+  <filesize>124483</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.5.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>b97191602ac202b2fcd8eb9065440fb7</md5>
+    <size>124483</size>
+    <filedate>1468852739</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.5.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>a6bf291e237629310aec7d148bdece4a</md5>
+    <size>195013</size>
+    <filedate>1468852739</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 7.x-1.4</name>
+  <version>7.x-1.4</version>
+  <tag>7.x-1.4</tag>
+  <version_major>1</version_major>
+  <version_patch>4</version_patch>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-1.4</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-1.4.tar.gz</download_link>
+  <date>1435252680</date>
+  <mdhash>9657b24291310d307a4166ea5f1be749</mdhash>
+  <filesize>111978</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.4.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>9657b24291310d307a4166ea5f1be749</md5>
+    <size>111978</size>
+    <filedate>1435252680</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.4.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>50c8aeb978c4c344a91f51b59ec04738</md5>
+    <size>180286</size>
+    <filedate>1435252680</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 7.x-1.3</name>
+  <version>7.x-1.3</version>
+  <tag>7.x-1.3</tag>
+  <version_major>1</version_major>
+  <version_patch>3</version_patch>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-1.3</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-1.3.tar.gz</download_link>
+  <date>1431490981</date>
+  <mdhash>63a2b2bf3acb85102602eb49e8db53d3</mdhash>
+  <filesize>99263</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.3.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>63a2b2bf3acb85102602eb49e8db53d3</md5>
+    <size>99263</size>
+    <filedate>1431490981</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.3.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>ffe3cb74edee6b614fa061a2ecbe5ce8</md5>
+    <size>161902</size>
+    <filedate>1431490981</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 7.x-1.2</name>
+  <version>7.x-1.2</version>
+  <tag>7.x-1.2</tag>
+  <version_major>1</version_major>
+  <version_patch>2</version_patch>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-1.2</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-1.2.tar.gz</download_link>
+  <date>1415051880</date>
+  <mdhash>e450fd4209e5f957775f5e47e0be539a</mdhash>
+  <filesize>97206</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.2.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>e450fd4209e5f957775f5e47e0be539a</md5>
+    <size>97206</size>
+    <filedate>1415051880</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.2.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>8a896f2c438562bec8d917c430467f7d</md5>
+    <size>159072</size>
+    <filedate>1415051880</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 7.x-1.1</name>
+  <version>7.x-1.1</version>
+  <tag>7.x-1.1</tag>
+  <version_major>1</version_major>
+  <version_patch>1</version_patch>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-1.1</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-1.1.tar.gz</download_link>
+  <date>1412603328</date>
+  <mdhash>41ca818078f7d684ee60b9579fc327f9</mdhash>
+  <filesize>96864</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.1.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>41ca818078f7d684ee60b9579fc327f9</md5>
+    <size>96864</size>
+    <filedate>1412603328</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.1.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>6c55d425f52e95a9f0a30b6c0436b606</md5>
+    <size>158669</size>
+    <filedate>1412603328</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>Bug fixes</value></term>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 7.x-1.0</name>
+  <version>7.x-1.0</version>
+  <tag>7.x-1.0</tag>
+  <version_major>1</version_major>
+  <version_patch>0</version_patch>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-1.0</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-1.0.tar.gz</download_link>
+  <date>1410382132</date>
+  <mdhash>6fcc676a64b3bf39d55ee78e4bbb8cd4</mdhash>
+  <filesize>94481</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.0.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>6fcc676a64b3bf39d55ee78e4bbb8cd4</md5>
+    <size>94481</size>
+    <filedate>1410382132</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.0.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>1141bf2c887e1148ba8329c8f3ef7a8a</md5>
+    <size>155429</size>
+    <filedate>1410382132</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 7.x-2.x-dev</name>
+  <version>7.x-2.x-dev</version>
+  <tag>7.x-2.x</tag>
+  <version_major>2</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-2.x-dev</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-2.x-dev.tar.gz</download_link>
+  <date>1468868639</date>
+  <mdhash>a7d26d99340cb81080bc76dff2b51b5d</mdhash>
+  <filesize>112335</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-2.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a7d26d99340cb81080bc76dff2b51b5d</md5>
+    <size>112335</size>
+    <filedate>1468868639</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-2.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>91349e12b01d44e279d3085e336f4c67</md5>
+    <size>177017</size>
+    <filedate>1468868639</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 8.x-1.x-dev</name>
+  <version>8.x-1.x-dev</version>
+  <tag>8.x-1.x</tag>
+  <version_major>1</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/8.x-1.x-dev</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-8.x-1.x-dev.tar.gz</download_link>
+  <date>1469808239</date>
+  <mdhash>a42389e20fcb67f1c3663c049e87dca2</mdhash>
+  <filesize>141479</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-8.x-1.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>a42389e20fcb67f1c3663c049e87dca2</md5>
+    <size>141479</size>
+    <filedate>1469808239</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-8.x-1.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>ea4c80ab752ff6e49c16fabff44e337d</md5>
+    <size>175834</size>
+    <filedate>1469808239</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+ <release>
+  <name>gesso 7.x-1.x-dev</name>
+  <version>7.x-1.x-dev</version>
+  <tag>7.x-1.x</tag>
+  <version_major>1</version_major>
+  <version_extra>dev</version_extra>
+  <status>published</status>
+  <release_link>https://www.drupal.org/project/gesso/releases/7.x-1.x-dev</release_link>
+  <download_link>https://ftp.drupal.org/files/projects/gesso-7.x-1.x-dev.tar.gz</download_link>
+  <date>1468008839</date>
+  <mdhash>63ca684908fef31e58d2b20d55f4b74c</mdhash>
+  <filesize>124571</filesize>
+  <files>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.x-dev.tar.gz</url>
+    <archive_type>tar.gz</archive_type>
+    <md5>63ca684908fef31e58d2b20d55f4b74c</md5>
+    <size>124571</size>
+    <filedate>1468008839</filedate>
+   </file>
+   <file>
+    <url>https://ftp.drupal.org/files/projects/gesso-7.x-1.x-dev.zip</url>
+    <archive_type>zip</archive_type>
+    <md5>5a0143d28bff158f234f9f8abcabdc70</md5>
+    <size>195047</size>
+    <filedate>1468008839</filedate>
+   </file>
+  </files>
+  <terms>
+   <term><name>Release type</name><value>New features</value></term>
+  </terms>
+ </release>
+</releases>
+</project>
