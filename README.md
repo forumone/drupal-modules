@@ -1,5 +1,5 @@
-# yeoman-generator-bluebird
-Decorates functionality from yeoman-generator with Bluebird Promises.
+# drupal-modules
+Retrieves information about Drupal modules.
 
 ## Functions provided
 - `retrieveProjectHistoryFile(project)`
@@ -10,7 +10,7 @@ Decorates functionality from yeoman-generator with Bluebird Promises.
 
 ## Usage
 ```javascript
-var ygp = require('drupal-modules');
+var drupal-modules = require('drupal-modules');
 
 promise = drupal_modules.getVersions('gesso')
 .then(function(versions) {
