@@ -6,7 +6,7 @@ Retrieves information about Drupal modules.
 - `getProjectHistory(project)`
 - `getVersions(project)`
 - `getLatestVersions(project)`
-- `getLatestMinorVersions(project)
+- `getLatestMinorVersions(project)`
 
 ## Usage
 ```javascript
