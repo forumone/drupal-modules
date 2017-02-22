@@ -15,15 +15,15 @@ function getProjectHistory(project) {
     var expression = window.document.createExpression('//release');
     var result = expression.evaluate(window.document, wgxpath.XPathResultType.ORDERED_NODE_ITERATOR_TYPE);
     var rows = [];
-    
+
     do {
       var item = result.iterateNext();
       if (item) {
         rows.push(_.reduce(item.childNodes, function(val, node) {
-            if (1 == node.nodeType) {
+            if (node.childNodes.length > 0 && 1 == node.nodeType) {
               val[node.nodeName] = node.childNodes[0].nodeValue;
             }
-            
+
             return val;
           }, {}));
       }
